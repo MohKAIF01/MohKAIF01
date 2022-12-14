@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Kaif</h1>
 <h3 align="center">Aspiring Data Analyst and Aspiring Data Scientist</h3>
 
-<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw041oPnqSp0kad3bwjIIS53&ust=1671099785283000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKilpYPy-PsCFQAAAAAdAAAAABAE">
+<img align="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/118962006/207571465-33998388-555b-49c3-bffc-6715cef2d9d1.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohkaif01&label=Profile%20views&color=0e75b6&style=flat" alt="mohkaif01" /> </p>
 
