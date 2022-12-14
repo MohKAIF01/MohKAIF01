@@ -1,5 +1,4 @@
-<imgalign="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/118962006/207580512-e4b6e99d-9556-4ddf-8c23-97a86c763ecb.png)
-">
+![image](https://user-images.githubusercontent.com/118962006/207580512-e4b6e99d-9556-4ddf-8c23-97a86c763ecb.png)
 <h1 align="center">Hi 👋, I'm Mohammed Kaif</h1>
 <h3 align="center">Aspiring Data Analyst and Aspiring Data Scientist</h3>
 
