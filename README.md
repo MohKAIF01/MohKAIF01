@@ -1,8 +1,9 @@
-<img align="right"alt="coding"width="400"src="">
+<imgalign="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/118962006/207580512-e4b6e99d-9556-4ddf-8c23-97a86c763ecb.png)
+">
 <h1 align="center">Hi 👋, I'm Mohammed Kaif</h1>
 <h3 align="center">Aspiring Data Analyst and Aspiring Data Scientist</h3>
 
-<img align="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/118962006/207571465-33998388-555b-49c3-bffc-6715cef2d9d1.png)
+<img align="right"alt="coding"width="300"src="![image](https://user-images.githubusercontent.com/118962006/207571465-33998388-555b-49c3-bffc-6715cef2d9d1.png)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohkaif01&label=Profile%20views&color=0e75b6&style=flat" alt="mohkaif01" /> </p>
