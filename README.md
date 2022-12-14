@@ -1,4 +1,4 @@
-|[logo](https://github.com/MohKAIF01/MohKAIF01/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Facebook%20Cover.png)
+![logo](https://github.com/MohKAIF01/MohKAIF01/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Facebook%20Cover.png)
 <h1 align="center">Hi 👋, I'm Mohammed Kaif</h1>
 <h3 align="center">Aspiring Data Analyst and Aspiring Data Scientist</h3>
 
